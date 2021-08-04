@@ -1,0 +1,7 @@
+spring.cloud.stream.bindings:
+  input:
+    destinatiom: topic1
+  output:
+    destination: topic1
+server:
+  port: 8087
