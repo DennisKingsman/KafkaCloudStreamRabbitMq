@@ -12,6 +12,22 @@ with json
     "name": "name"
 }
 ```
+Step 3
+If you want to work with rabbit then change 
+```
+<dependency>
+	<groupId>org.springframework.cloud</groupId>
+	<artifactId>spring-cloud-stream-binder-kafka</artifactId>
+</dependency>
+```
+to 
+```
+<dependency>
+	<groupId>org.springframework.cloud</groupId>
+	<artifactId>spring-cloud-stream-binder-rabbit</artifactId>
+</dependency>
+```
+int pom.xml file
 # Issues 
 When it comes to start the application with kafka on port 8080 then app's fails  
 So in all kafka applications I have changed the port to 808X  
