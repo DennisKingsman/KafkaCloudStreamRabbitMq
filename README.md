@@ -35,3 +35,5 @@ So in all kafka applications I have changed the port to 808X
 [youtube-guide](https://www.youtube.com/playlist?list=PL4TnYdea-xTI-vUWgIoaDQOpC4PlK31md)
 # Related repo
 [first step](https://github.com/DennisKingsman/KafkaSpringBootDemo)
+# TODO
+Look up to migrate from deprecated elements.
