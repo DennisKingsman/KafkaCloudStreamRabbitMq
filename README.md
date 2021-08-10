@@ -32,6 +32,7 @@ int pom.xml file
 When it comes to start the application with kafka on port 8080 then app's fails  
 So in all kafka applications I have changed the port to 808X  
 # Resources
+[rabbitmq](https://www.rabbitmq.com/#getstarted)
 [youtube-guide](https://www.youtube.com/playlist?list=PL4TnYdea-xTI-vUWgIoaDQOpC4PlK31md)
 # Related repo
 [first step](https://github.com/DennisKingsman/KafkaSpringBootDemo)
